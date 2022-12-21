@@ -1,0 +1,12 @@
+#Apps {
+background-color: aliceblue;
+}
+.line {
+width:70px;
+height:6px;
+background-color: black;
+margin:8px auto;
+}
+#games {
+background-color: lightcoral;
+}
